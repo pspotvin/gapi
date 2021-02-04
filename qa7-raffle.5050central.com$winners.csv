@@ -1,0 +1,7 @@
+﻿EventNo,EventTitle,CustomerName,CTACardName,DrawTime,FormattedTicketNo,PrizeAmount,PrizeTitle
+16,Week 1,John Doe,Ace of Spades,2021-01-12T13:30,A-1234567,1688,Weekly Prize
+17,Week 2,Jane Smith,Jack of Hearts,2021-01-19T14:30,A-2333333,83774,Weekly Prize
+18,Week 3,Jack Black,8 of Diamonds,2021-01-26,A-2349878,343,Weekly Prize
+19,Week 4,Robert Smith,Ace of Hearts,2021-02-01,B-3787222,3422,Weekly Prize
+20,Week 5,Will Smith,2 of Hearts,2021-02-06,C-7665555,15645,Weekly Prize
+21,Week 6,Wayne Gretzky,Ace of Diamonds,2021-02-13,A-9999999,489110,Jackpot
