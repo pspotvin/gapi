@@ -1,4 +1,4 @@
-﻿eventNo,eventTitle,customerName,ctaCardName,drawTime,formattedTicketNo,prizeAmount,prizeTitle
+EventNo,EventTitle,CustomerName,CTACardName,DrawTime,FormattedTicketNo,PrizeAmount,PrizeTitle
 6,Week 1,Marla Singer,Ace of Spades,2021-01-12T13:30,A-1234567,1688,Weekly Prize
 7,Week 2,Tyler Durden ,Jack of Hearts,2021-01-19T14:30,A-2333333,83774,Weekly Prize
 8,Week 3,Joe Smith,8 of Diamonds,2021-01-26,A-2349878,343,Weekly Prize
