@@ -1,5 +1,5 @@
 EventNo,CardCode,CardName,CardPosition,DrawYear,DrawMonth,DrawDay,EventTitle,Name,PrizeAmount,PrizeTitle,PrizeTypeId,TicketNo,Location,PrizeImageUrl,PrizeDescription
-6,aces,Ace of Spades,12,2021,1,12,Week 12,Marla Singer,78334,POT Prize,1,A-1234567,"Moncton, NB",https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png,"This is the prize description!"
+6,aces,Ace of Spades,12,2021,1,12,Week 12,Marla Singer,78334,POT Prize,1,A-1234567,"Moncton, NB","https://d2nmcp36gfbg9g.cloudfront.net/ad6b7c6c-b6be-4812-8b1e-3c5e61431152/prize-2140-600-09.png","This is the prize description!"
 7,jackd,Jack of Diamonds,9,2021,1,19,Week 13,Tyler Durden,87444,POT Prize,1,B-4338342,"Toronto, ON"
 8,nineh,Nine of Hearts,18,2021,1,26,Week 14,Wayne Gretzky,4783,POT Prize,1,A-2987456
 9,sevenh,Seven of Hearts,33,2021,2,1,Week 15,Ronald McDonald,9811,POT Prize,1,B-8309274
